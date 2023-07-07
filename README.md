@@ -1,1 +1,1 @@
-# g-manager-api
+# organizer-kit-api
